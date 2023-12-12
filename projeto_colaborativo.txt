@@ -1,0 +1,1 @@
+Projeto criado com o intuito de praticar comandos no git e utilizar a função de colaboradores. 
